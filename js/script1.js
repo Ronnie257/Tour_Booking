@@ -109,7 +109,7 @@ function con(){
         document.getElementById("row3").value = '';
         document.getElementById("row4").value = '';
         document.getElementById("row5").value = '';
-        // alert("Message sent ")
+         alert("Message sent ")
         
 }
 
